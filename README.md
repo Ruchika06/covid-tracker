@@ -4,7 +4,7 @@
 
 The project is going to fetch the live data from the API using Async/Await syntax in addition to React Hooks! 
 
-Live Site
+Live Site:  https://ruchika06.github.io/covid-tracker/
 
 API used: https://covid19.mathdro.id/api
 
